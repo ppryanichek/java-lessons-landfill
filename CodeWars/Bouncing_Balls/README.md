@@ -5,8 +5,7 @@ He drops the ball out of the window.\ The ball bounces (for example), to two-thi
 
 His mother looks out of a window 1.5 meters from the ground.
 
-**How many times will the mother see the ball pass in front of her window (_including when it's falling and bouncing_)?**
-
+**How many times will the mother see the ball pass in front of her window** (_including when it's falling and bouncing_)?
 ### Three conditions must be met for a valid experiment:
 
 * Float parameter "h" in meters must be greater than 0
