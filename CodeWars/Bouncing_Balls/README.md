@@ -1,5 +1,5 @@
 # DESCRIPTION
-A child is playing with a ball on the nth floor of a tall building.\ The height of this floor above ground level, h, is known.
+A child is playing with a ball on the (n)th floor of a tall building.\ The height of this floor above ground level, h, is known.
 
 He drops the ball out of the window.\ The ball bounces (for example), to two-thirds of its height (a bounce of 0.66).
 
@@ -15,4 +15,5 @@ His mother looks out of a window 1.5 meters from the ground.
 
 If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
 
->Note:\ The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.
+Note: 
+>The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.
